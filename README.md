@@ -1,2 +1,2 @@
-# taskmaster-ui
-UI repo for Notecard (Project 2)
+# Notecard UI
+Repository for Notecard user interface (UI)
